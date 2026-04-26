@@ -1,0 +1,27 @@
+Customer Feedback Report - Q1 2025
+Product: AI Writing Assistant Product
+Summary of 47 responses collected via in-app survey and support tickets.
+
+Positive Feedback:
+- 31 customers praised the autocomplete speed, callit it "instant" and "snappy"
+- 24 customers highlighted the tone adjustment feature as ther most-used tool
+- 18 customers reported significant time savings, averaging 2.5 hours per week
+- Several enterprise customers noted smooth integration with their existing workflow
+
+Negative Feedback:
+- 19 customers reported the tool frequently suggests generic, templated phrasing
+- 14 customers complained about loss of personal writing voice after extended use
+- 11 customers experieced context loss in documents longer than 3,000 words
+- 8 customers reported the mobile version crashes on iOS 17. specifically
+- 6 enterprise customers flagged GDPR compliance documentation as incomplete
+
+Feature Requests:
+- 22 customers requested a "learning mode" that adapts to individual writing style
+- 15 customers want offline mode for sensitive document handling
+- 12 customers requested Notion and Confluence integration
+- 9 customers asked for version history and undo at the suggestion level
+
+Church Risk:
+- 6 enterprise accounts (representing ~$180k ARR) have flagged dissatisfaction
+- 3 of these specifically cited GDPR documentation as a blocker for continued use
+- Support ticket volume increased 34% this quarter vs last
